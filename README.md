@@ -1,5 +1,5 @@
 # Loads-API
-This is simple load's API using spring framework.
+This is simple load's API using spring boot framework.
 
 ## Spring Boot load's API Project
 This project is a simple REST API built with Spring Boot. It provides a few endpoints for managing loads, including:
